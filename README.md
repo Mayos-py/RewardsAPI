@@ -60,8 +60,9 @@ Rewards API gives you the reward points if you give your restaurant/hotel receip
           "total": "9.00"
           }
    
-  Id will be generated
+    Id will be generated
 
     GET http://localhost:3000/receipts/{id}/points
+    
     Replace {id} with the receipt ID returned from the POST request.           
 
