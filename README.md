@@ -8,9 +8,9 @@ Rewards API gives you the reward points if you give your restaurant/hotel receip
   
    You can use Dockerfile as well docker compose for the docker setup
    
-   Build the docker file using the command -
+   Build the docker file using the command (Don't miss the dot)-
    
-       docker build -t rewardsapi . (Don't miss this dot)
+       docker build -t rewardsapi . 
    
    Run the docker file to start the container -
 
