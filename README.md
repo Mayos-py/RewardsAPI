@@ -26,9 +26,10 @@ Rewards API gives you the reward points if you give your restaurant/hotel receip
          docker compose up
 
 3. To run the app on the local use the command - 
-   npm run start
 
-4. Testing it on postman
+       npm run start
+
+5. Testing it on postman
 
      POST http://localhost:3000/receipts/process
      Add a valid JSON payload in the body.
